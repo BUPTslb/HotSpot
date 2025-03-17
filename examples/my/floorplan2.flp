@@ -1,0 +1,11 @@
+
+# Floorplan close to the Alpha EV6 processor
+# Line Format: <unit-name>\t<width>\t<height>\t<left-x>\t<bottom-y>
+# all dimensions are in meters
+# comment lines begin with a '#'
+# comments and empty lines are ignored
+# SRAM Layer (10mm x10mm)
+SRAM_Bank1	0.005		0.005		0.000	0.000
+SRAM_Bank2	0.005		0.005		0.005	0.000
+SRAM_Bank3	0.005		0.005		0.000	0.005
+SRAM_Bank4	0.005		0.005		0.005	0.005

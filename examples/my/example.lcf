@@ -1,0 +1,90 @@
+# Layer 0: NPU Logic (Silicon)
+0
+Y
+Y
+1.75e6
+0.01
+0.00015
+floorplan1.flp
+
+# Layer 1: Hybrid Bonding (TIM)
+1
+Y
+N
+4e6
+0.25
+2.0e-05
+floorplan1.flp
+
+# Layer 2: SRAM (Silicon)
+2
+Y
+Y
+1.75e6
+0.01
+0.00015
+floorplan2.flp
+
+# Layer 3: TSV Interposer (TIM)
+3
+Y
+N
+4e6
+0.25
+2.0e-05
+floorplan2.flp
+
+# Layer 4: DRAM1 (Silicon)
+4
+Y
+Y
+1.75e6
+0.01
+0.00015
+floorplan3.flp
+
+# Layer 5: TSV Interposer (TIM)
+5
+Y
+N
+4e6
+0.25
+2.0e-05
+floorplan3.flp
+
+# Layer 6: DRAM1 (Silicon)
+6
+Y
+Y
+1.75e6
+0.01
+0.00015
+floorplan4.flp
+
+# Layer 7: TSV Interposer (TIM)
+7
+Y
+N
+4e6
+0.25
+2.0e-05
+floorplan4.flp
+
+# Layer 8: DRAM1 (Silicon)
+8
+Y
+Y
+1.75e6
+0.01
+0.00015
+floorplan5.flp
+
+# Layer 9: TSV Interposer (TIM)
+9
+Y
+N
+4e6
+0.25
+2.0e-05
+floorplan5.flp
+

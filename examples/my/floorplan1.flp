@@ -1,0 +1,13 @@
+
+# Line Format: <unit-name>\t<width>\t<height>\t<left-x>\t<bottom-y>\t[<specific-heat>]\t[<resistivity>]
+# all dimensions are in meters
+# comment lines begin with a '#' 
+# comments and empty lines are ignored
+
+# NPU Layer (10mm x10mm)
+# Unit	Width(m)	Height(m)	X(m)	Y(m)
+NPU_Core1	0.005		0.005		0.000	0.005
+NPU_Core2	0.005		0.005		0.005	0.005
+L1_Cache	0.005		0.005		0.000	0.000
+Ctrl_Unit	0.005		0.005		0.005	0.000
+
